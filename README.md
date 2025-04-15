@@ -1,5 +1,7 @@
 # IMDB Sentiment App
 
+https://imdb-sentiment-app.onrender.com
+
 🎬 Clasificador de Sentimientos IMDB — Aplicación Interactiva
 Este proyecto demuestra la implementación completa de un sistema de análisis de sentimientos aplicado a reseñas de películas, basado en técnicas de procesamiento de lenguaje natural (NLP) y aprendizaje automático supervisado. Fue diseñado como una solución ligera, funcional y presentable que puede ser desplegada fácilmente mediante Streamlit, tanto en entorno local como en plataformas como Render.
 
